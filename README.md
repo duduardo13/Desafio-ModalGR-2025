@@ -32,6 +32,7 @@ a finalização exibir em tela a mensagem no padrão exigido.
 Observação:
 - Entrada: "A ModalGR está criando soluções incríveis."
 - Saída: Quantidade de palavras: 6
+  
 Considere como separadores de palavras apenas os espaços em branco.
 A ModalGR possui um sistema em desenvolvimento que recebe um vetor de 50
 números inteiros gerados de forma randômica. A partir desses valores armazenar
