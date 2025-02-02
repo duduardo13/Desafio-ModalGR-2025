@@ -38,5 +38,5 @@ números inteiros gerados de forma randômica. A partir desses valores armazenar
 em vetores distintos. Visando atender esse quesito, você foi escolhido para nos
 ajudar nessa solução!
 Após a finalização exibir em tela os valores de cada um dos vetores.
-• Primeiro vetor: os números que são múltiplos de 3;
+• Primeiro vetor: os números que são múltiplos de 3; <br>
 • Segundo vetor: os números que não são múltiplos de 3.
