@@ -1,4 +1,4 @@
-Teste Técnico – Análise de Testes (QA)
+# Teste Técnico – Análise de Testes (QA)
 
 Desafio: Utilizando Javascript ou Typescript. As resoluções poderão ser retornadas no CLI.
 
